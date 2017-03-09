@@ -1,7 +1,33 @@
 {
-  "_args": [
-    [
-      {
+    "_args": [
+        [{
+                "raw": "pui-react-dropdowns",
+                "scope": null,
+                "escapedName": "pui-react-dropdowns",
+                "name": "pui-react-dropdowns",
+                "rawSpec": "",
+                "spec": "latest",
+                "type": "tag"
+            },
+            "/Users/bhuizi/Documents/Code"
+        ]
+    ],
+    "_from": "pui-react-dropdowns@latest",
+    "_id": "pui-react-dropdowns@7.5.5",
+    "_inCache": true,
+    "_location": "/pui-react-dropdowns",
+    "_nodeVersion": "6.9.4",
+    "_npmOperationalInternal": {
+        "host": "packages-18-east.internal.npmjs.com",
+        "tmp": "tmp/pui-react-dropdowns-7.5.5.tgz_1488989877161_0.5158428088761866"
+    },
+    "_npmUser": {
+        "name": "jadekler",
+        "email": "jadekler@gmail.com"
+    },
+    "_npmVersion": "3.5.0",
+    "_phantomChildren": {},
+    "_requested": {
         "raw": "pui-react-dropdowns",
         "scope": null,
         "escapedName": "pui-react-dropdowns",
@@ -9,144 +35,116 @@
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
-      },
-      "/Users/bhuizi/Documents/Code"
-    ]
-  ],
-  "_from": "pui-react-dropdowns@latest",
-  "_id": "pui-react-dropdowns@7.5.5",
-  "_inCache": true,
-  "_location": "/pui-react-dropdowns",
-  "_nodeVersion": "6.9.4",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/pui-react-dropdowns-7.5.5.tgz_1488989877161_0.5158428088761866"
-  },
-  "_npmUser": {
-    "name": "jadekler",
-    "email": "jadekler@gmail.com"
-  },
-  "_npmVersion": "3.5.0",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "pui-react-dropdowns",
-    "scope": null,
-    "escapedName": "pui-react-dropdowns",
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/pui-react-dropdowns/-/pui-react-dropdowns-7.5.5.tgz",
+    "_shasum": "c9e734ed56ca7a69f797f458c58482a784ec56ff",
+    "_shrinkwrap": null,
+    "_spec": "pui-react-dropdowns",
+    "_where": "/Users/bhuizi/Documents/Code",
+    "author": {
+        "name": "Pivotal Software, Inc"
+    },
+    "bugs": {
+        "url": "https://github.com/pivotal-cf/pivotal-ui/issues"
+    },
+    "dependencies": {
+        "babel-runtime": "^6.1.18",
+        "classnames": "^2.1.2",
+        "pui-css-dropdowns": "git@github.com:bhuizi/curly-robot.git",
+        "pui-react-iconography": "=7.5.5",
+        "pui-react-mixins": "=7.5.5"
+    },
+    "description": "A React dropdown component",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "c9e734ed56ca7a69f797f458c58482a784ec56ff",
+        "tarball": "https://registry.npmjs.org/pui-react-dropdowns/-/pui-react-dropdowns-7.5.5.tgz"
+    },
+    "homepage": "http://styleguide.pivotal.io/",
+    "keywords": [
+        "bootstrap",
+        "react",
+        "pivotal ui",
+        "pivotal ui modularized"
+    ],
+    "license": "MIT",
+    "main": "dropdowns.js",
+    "maintainers": [{
+            "name": "aberkovec",
+            "email": "aberkovec@pivotal.io"
+        },
+        {
+            "name": "atomanyih",
+            "email": "august.toman.yih@gmail.com"
+        },
+        {
+            "name": "charleshansen",
+            "email": "chansen87@gmail.com"
+        },
+        {
+            "name": "chentom88",
+            "email": "chentom77@gmail.com"
+        },
+        {
+            "name": "ctaymor",
+            "email": "ctaymor@gmail.com"
+        },
+        {
+            "name": "cthompson",
+            "email": "cthompson@pivotal.io"
+        },
+        {
+            "name": "d-reinhold",
+            "email": "dom.reinhold@gmail.com"
+        },
+        {
+            "name": "esharma",
+            "email": "esharma@pivotal.io"
+        },
+        {
+            "name": "gpleiss",
+            "email": "gpleiss@gmail.com"
+        },
+        {
+            "name": "jadekler",
+            "email": "jadekler@gmail.com"
+        },
+        {
+            "name": "kennyw1019",
+            "email": "kennyw1019@gmail.com"
+        },
+        {
+            "name": "mattroyal",
+            "email": "mroyal@pivotal.io"
+        },
+        {
+            "name": "rdy",
+            "email": "ryan.dy@gmail.com"
+        },
+        {
+            "name": "stubbornella",
+            "email": "nicole@stubbornella.org"
+        },
+        {
+            "name": "vinsonchuong",
+            "email": "vinsonchuong@gmail.com"
+        }
+    ],
     "name": "pui-react-dropdowns",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/pui-react-dropdowns/-/pui-react-dropdowns-7.5.5.tgz",
-  "_shasum": "c9e734ed56ca7a69f797f458c58482a784ec56ff",
-  "_shrinkwrap": null,
-  "_spec": "pui-react-dropdowns",
-  "_where": "/Users/bhuizi/Documents/Code",
-  "author": {
-    "name": "Pivotal Software, Inc"
-  },
-  "bugs": {
-    "url": "https://github.com/pivotal-cf/pivotal-ui/issues"
-  },
-  "dependencies": {
-    "babel-runtime": "^6.1.18",
-    "classnames": "^2.1.2",
-    "pui-css-dropdowns": "=7.5.5",
-    "pui-react-iconography": "=7.5.5",
-    "pui-react-mixins": "=7.5.5"
-  },
-  "description": "A React dropdown component",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "c9e734ed56ca7a69f797f458c58482a784ec56ff",
-    "tarball": "https://registry.npmjs.org/pui-react-dropdowns/-/pui-react-dropdowns-7.5.5.tgz"
-  },
-  "homepage": "http://styleguide.pivotal.io/",
-  "keywords": [
-    "bootstrap",
-    "react",
-    "pivotal ui",
-    "pivotal ui modularized"
-  ],
-  "license": "MIT",
-  "main": "dropdowns.js",
-  "maintainers": [
-    {
-      "name": "aberkovec",
-      "email": "aberkovec@pivotal.io"
+    "optionalDependencies": {},
+    "peerDependencies": {
+        "react": ">=15.0.0"
     },
-    {
-      "name": "atomanyih",
-      "email": "august.toman.yih@gmail.com"
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pivotal-cf/pivotal-ui.git"
     },
-    {
-      "name": "charleshansen",
-      "email": "chansen87@gmail.com"
-    },
-    {
-      "name": "chentom88",
-      "email": "chentom77@gmail.com"
-    },
-    {
-      "name": "ctaymor",
-      "email": "ctaymor@gmail.com"
-    },
-    {
-      "name": "cthompson",
-      "email": "cthompson@pivotal.io"
-    },
-    {
-      "name": "d-reinhold",
-      "email": "dom.reinhold@gmail.com"
-    },
-    {
-      "name": "esharma",
-      "email": "esharma@pivotal.io"
-    },
-    {
-      "name": "gpleiss",
-      "email": "gpleiss@gmail.com"
-    },
-    {
-      "name": "jadekler",
-      "email": "jadekler@gmail.com"
-    },
-    {
-      "name": "kennyw1019",
-      "email": "kennyw1019@gmail.com"
-    },
-    {
-      "name": "mattroyal",
-      "email": "mroyal@pivotal.io"
-    },
-    {
-      "name": "rdy",
-      "email": "ryan.dy@gmail.com"
-    },
-    {
-      "name": "stubbornella",
-      "email": "nicole@stubbornella.org"
-    },
-    {
-      "name": "vinsonchuong",
-      "email": "vinsonchuong@gmail.com"
-    }
-  ],
-  "name": "pui-react-dropdowns",
-  "optionalDependencies": {},
-  "peerDependencies": {
-    "react": ">=15.0.0"
-  },
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pivotal-cf/pivotal-ui.git"
-  },
-  "scripts": {},
-  "version": "7.5.5"
+    "scripts": {},
+    "version": "7.5.5"
 }
