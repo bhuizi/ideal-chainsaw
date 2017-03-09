@@ -9,7 +9,7 @@
                 "spec": "latest",
                 "type": "tag"
             },
-            "/Users/bhuizi/Documents/Code"
+            "/Users/bhuizi/Downloads/testing"
         ]
     ],
     "_from": "pui-react-dropdowns@latest",
@@ -37,14 +37,13 @@
         "type": "tag"
     },
     "_requiredBy": [
-        "#USER",
-        "/"
+        "#USER"
     ],
     "_resolved": "https://registry.npmjs.org/pui-react-dropdowns/-/pui-react-dropdowns-7.5.5.tgz",
     "_shasum": "c9e734ed56ca7a69f797f458c58482a784ec56ff",
     "_shrinkwrap": null,
     "_spec": "pui-react-dropdowns",
-    "_where": "/Users/bhuizi/Documents/Code",
+    "_where": "/Users/bhuizi/Downloads/testing",
     "author": {
         "name": "Pivotal Software, Inc"
     },
@@ -147,25 +146,4 @@
     },
     "scripts": {},
     "version": "7.5.5"
-}
-}, {
-    "name": "stubbornella",
-    "email": "nicole@stubbornella.org"
-}, {
-    "name": "vinsonchuong",
-    "email": "vinsonchuong@gmail.com"
-}
-],
-"name": "pui-react-dropdowns",
-"optionalDependencies": {},
-"peerDependencies": {
-    "react": ">=15.0.0"
-},
-"readme": "ERROR: No README data found!",
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/pivotal-cf/pivotal-ui.git"
-},
-"scripts": {},
-"version": "7.5.5"
 }
