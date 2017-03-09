@@ -54,7 +54,7 @@
     "dependencies": {
         "babel-runtime": "^6.1.18",
         "classnames": "^2.1.2",
-        "pui-css-dropdowns": "git@github.com:bhuizi/curly-robot.git",
+        "pui-css-dropdowns": "https://github.com/bhuizi/curly-robot.git",
         "pui-react-iconography": "=7.5.5",
         "pui-react-mixins": "=7.5.5"
     },
@@ -147,4 +147,26 @@
     },
     "scripts": {},
     "version": "7.5.5"
+}
+n.dy @gmail.com "
+}, {
+    "name": "stubbornella",
+    "email": "nicole@stubbornella.org"
+}, {
+    "name": "vinsonchuong",
+    "email": "vinsonchuong@gmail.com"
+}
+],
+"name": "pui-react-dropdowns",
+"optionalDependencies": {},
+"peerDependencies": {
+    "react": ">=15.0.0"
+},
+"readme": "ERROR: No README data found!",
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/pivotal-cf/pivotal-ui.git"
+},
+"scripts": {},
+"version": "7.5.5"
 }
